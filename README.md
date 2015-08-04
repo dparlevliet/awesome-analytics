@@ -1,6 +1,6 @@
 # Awesome Analytics
 
-A curated list of awesome app analytical/metric tools and other related awesome
+A curated list of awesome app analytical tools and other related awesome
 resources. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata)
 and [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
 this was originally forked from [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
@@ -14,7 +14,10 @@ Your feedback and contributions are always welcome!
     - Open-Source
       - [Timeseries databases](#OSS_Timeseries_database)
       - [Server metric collectors](#OSS_Server_metric_collectors)
-      - [General analytics/metrics](#OSS_General_analytics)
+      - [Drop-in soltuions](#OSS_Dropin_solutions)
+        - [Web](#OSS_General_analytics_web)
+        - [Server](#OSS_General_analytics_server)
+        - [Other](#OSS_General_analytics_general)
       - [Mobile analytics](#OSS_Mobile_analytics)
       - [Dashboards](#OSS_Analytics_dashboards)
       - [Graph generators/visualization](#OSS_Graph_generation)
@@ -42,15 +45,18 @@ Your feedback and contributions are always welcome!
   * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
   * [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB.
 
-* <a name="OSS_General_analytics"></a> General analytics/metrics
-  * [Piwik](http://piwik.org/) - real-time open source web analytics tool similar to Google Analytics.
-  * [Open Web Analytics](http://www.openwebanalytics.com/) - open source web app analytics tool.
-  * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
-  * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-  * [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
-  * [Snow Plow](http://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
-  * [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server with dashboard frontend, editor and graph composer.
-  * [Munin](http://munin-monitoring.org/) - Aggregated server metrics using RRDtool written in Python.
+* <a name="OSS_Dropin_solutions"></a> Drop-in solutions
+  * <a name="OSS_General_analytics_web"></a> Web Analytics
+    * [Piwik](http://piwik.org/) - real-time open source web analytics tool similar to Google Analytics.
+    * [Open Web Analytics](http://www.openwebanalytics.com/) - open source web app analytics tool.
+    * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
+  * <a name="OSS_General_analytics_server"></a> Server Analytics
+    * [Munin](http://munin-monitoring.org/) - Aggregated server metrics using RRDtool written in Python.
+    * [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
+  * <a name="OSS_General_analytics_other"></a> Other
+    * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
+    * [Snow Plow](http://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
+    * [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server with dashboard frontend, editor and graph composer.
 
 * <a name="OSS_Mobile_analytics"></a> Mobile analytics
   ( The tools listed here are not necessarily purely for mobile analytics tools only. However they show a strong mobile focus. )
