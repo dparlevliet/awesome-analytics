@@ -3,7 +3,7 @@
 A curated list of awesome app analytical/metric tools and other related awesome
 resources. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata)
 and [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
-this was originall forked from [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
+this was originally forked from [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
 
 This repository has a focus toward open-source, but I will also happily take 
 submissions for hosted solutions aswell.
