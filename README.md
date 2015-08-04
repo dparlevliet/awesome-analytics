@@ -1,9 +1,11 @@
 # Awesome Analytics
 
-A curated list of awesome analytics platforms, metric visualisation and other analytic/metric 
+A curated list of awesome app analytical/metric tools and other related awesome
 resources. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata)
-and forked from [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
-This repository has a focus twoard open-source, but I will also happily take 
+and [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
+this was originall forked from [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
+
+This repository has a focus toward open-source, but I will also happily take 
 submissions for hosted solutions aswell.
 
 Your feedback and contributions are always welcome!
@@ -14,7 +16,8 @@ Your feedback and contributions are always welcome!
       - [Server metric collectors](#OSS_Server_metric_collectors)
       - [General analytics/metrics](#OSS_General_analytics)
       - [Mobile analytics](#OSS_Mobile_analytics)
-      - [Dashboards and graphing/visualisation](#OSS_Analytics_dashboards)
+      - [Dashboards](#OSS_Analytics_dashboards)
+      - [Graph generators/visualization](#OSS_Graph_generation)
     - Hosted only
       - [General analytics](#Hosted_General_analytics)
       - [Heatmap analytics](#Hosted_Heatmap_analytics)
@@ -47,22 +50,27 @@ Your feedback and contributions are always welcome!
   * [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
   * [Snow Plow](http://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
   * [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server with dashboard frontend, editor and graph composer.
+  * [Munin](http://munin-monitoring.org/) - Aggregated server metrics using RRDtool written in Python.
 
 * <a name="OSS_Mobile_analytics"></a> Mobile analytics
   ( The tools listed here are not necessarily purely for mobile analytics tools only. However they show a strong mobile focus. )
   * [Count.ly](http://count.ly/) - open-source mobile app analytics tool.
   * [Playtomatic](http://playtomic.org/) - mobile app open source analytics tool for games.
 
-* <a name="OSS_Analytics_dashboards"></a> Dashboards and graphing/visualisation
+* <a name="OSS_Analytics_dashboards"></a> Dashboards
   * [Redash](http://redash.io/) - open-source platform to query and visualize data.
   * [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups.
   * [Grafana](http://grafana.org/) - A HTML5 Dashboard and Graph Editor that supports Graphite, InfluxDB and OpenTSDB.
   * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
-  * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
   * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
   * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
   * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
 
+* <a name="OSS_Graph_generation"></a> Graph generators/visualization
+  * General
+    * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
+  * Web only
+    * [Highcharts](http://www.highcharts.com/) - Interactive Javascript charts for your website.
 
 
 ## Hosted
