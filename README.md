@@ -46,6 +46,7 @@ Your feedback and contributions are always welcome!
   * [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server with dashboard frontend, editor and graph composer.
 
 * <a name="OSS_Mobile_analytics"></a> Mobile analytics
+  ( The tools listed here are not necessarily purely for mobile analytics tools only. However they show a strong mobile focus. )
   * [Count.ly](http://count.ly/) - open-source mobile app analytics tool.
   * [Playtomatic](http://playtomic.org/) - mobile app open source analytics tool for games.
 
