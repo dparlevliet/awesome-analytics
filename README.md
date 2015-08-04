@@ -1,7 +1,10 @@
 # Awesome Analytics
 
-A curated list of awesome analytics platforms, resources and other awesomeness. 
-Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+A curated list of awesome analytics platforms, metric visualisation and other analytic/metric 
+resources. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata)
+and forked from [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
+This repository has a focus twoard open-source, but I will also happily take 
+submissions for hosted solutions aswell.
 
 Your feedback and contributions are always welcome!
 
@@ -157,4 +160,5 @@ Your feedback and contributions are always welcome!
 - Even more lists [awesome](https://github.com/sindresorhus/awesome).
 - Another list? [list](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
-- Analytics [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+- Big Data [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+- Sysadmin [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
