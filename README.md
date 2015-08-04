@@ -55,7 +55,7 @@ Your feedback and contributions are always welcome!
     * [Munin](http://munin-monitoring.org/) - Aggregated server metrics using RRDtool written in Python.
     * [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
 
-  * <a name="OSS_Dropin_solutions_other"></a> General analytics
+  * <a name="OSS_Dropin_solutions_general"></a> General analytics
     * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
     * [Snow Plow](http://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
     * [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server with dashboard frontend, editor and graph composer.
