@@ -11,7 +11,6 @@ Your feedback and contributions are always welcome!
       - [Server metric collectors](#OSS_Server_metric_collectors)
       - [General analytics/metrics](#OSS_General_analytics)
       - [Mobile analytics](#OSS_Mobile_analytics)
-      - [Attribution tracking](#OSS_Attribution_tracking)
       - [Dashboards and graphing/visualisation](#OSS_Analytics_dashboards)
     - Hosted only
       - [General analytics](#Hosted_General_analytics)
@@ -49,9 +48,6 @@ Your feedback and contributions are always welcome!
 * <a name="OSS_Mobile_analytics"></a> Mobile analytics
   * [Count.ly](http://count.ly/) - open-source mobile app analytics tool.
   * [Playtomatic](http://playtomic.org/) - mobile app open source analytics tool for games.
-
-* <a name="OSS_Attribution_tracking"></a> Attribution tracking
-  * [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking.
 
 * <a name="OSS_Analytics_dashboards"></a> Dashboards and graphing/visualisation
   * [Redash](http://redash.io/) - open-source platform to query and visualize data.
@@ -133,6 +129,7 @@ Your feedback and contributions are always welcome!
   * [Apptrace](http://www.apptrace.com/) - fast and free app store analytics platform.
 
 * <a name="Hosted_Attribution_tracking"></a> Attribution tracking
+  * [Adjust](http://adjust.com/) - sophisticated analysis and campaign tracking.
   * [Clickmeter](http://clickmeter.com/) - analytics tool that helps you track marketing campaigns.
   * [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform.
 
