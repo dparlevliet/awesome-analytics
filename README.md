@@ -52,7 +52,7 @@ Your feedback and contributions are always welcome!
     * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool.
 
   * <a name="OSS_Dropin_solutions_server"></a> Server analytics
-    * [Munin](http://munin-monitoring.org/) - Aggregated server metrics using RRDtool written in Python.
+    * [Munin](http://munin-monitoring.org/) - Aggregated server metrics using RRDtool written in Perl.
     * [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
 
   * <a name="OSS_Dropin_solutions_general"></a> General analytics
